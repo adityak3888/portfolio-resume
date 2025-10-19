@@ -7,5 +7,5 @@ It’s a simple website that introduces who I am, showcases some of my projects,
 
 ---
 
-## 📁 Project Structure
+
 
